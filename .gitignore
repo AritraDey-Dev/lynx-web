@@ -22,36 +22,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Ignore all files and directories in home directory and parent directories
-/../../../../*
-
-# Specific directories or files to ignore
-/node_modules/
-/build/
-/dist/
-/coverage/
-/logs/
-*.log
-.env
-.DS_Store
-
-# Ignore system files and directories
-.cache/
-.config/
-.local/
-.vscode/
-.pki/
-.gnupg/
-.ssh/
-.aws/
-.docker/
-.nvm/
-.bundle/
-.m2/
-.gradle/
-.idea/
-.npm/
-.yarn/
-.vscode/
-.DS_Store
-Thumbs.db
